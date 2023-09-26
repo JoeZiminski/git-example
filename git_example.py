@@ -1,3 +1,5 @@
 var_a = "a"
 var_b = "b"
 var_c = "p"
+var_d = "d"
+var_e = "e"
