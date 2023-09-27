@@ -4,6 +4,11 @@ branches.
 
 This commit history has some mistakes.
 
+Hey, I made a change over here. First, lets rebase onto main from our branch.
+
+`git rebase main -i`
+`git push -f`
+
 Firstly, the most recent commit
 should have added "f" and "g" but only 
 added "f". We can pin recent changes into the 
